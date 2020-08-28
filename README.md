@@ -13,3 +13,4 @@ This challenge is to build a web application that scrapes various websites for d
 
 1. [NASA Mars News Site](https://mars.nasa.gov/news/)
 2. [JPL Featured Space Image](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars)
+3. [Mars Weather] (https://twitter.com/marswxreport?lang=en)
